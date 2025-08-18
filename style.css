@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 0 auto;
+    max-width: 40rem;
+    line-height: 1.6;
+    font-size: 1.2rem;
+    color: #3eb;
+    background: #021;
+    padding: 0 1rem;
+}
+
+header {
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, h2, h3 {
+    line-height: 1.2;
+}
+
+a:visited {
+    color: LinkText;
+}
+
+hr {
+    visibility: hidden;
+    margin: 2.3rem;
+}
