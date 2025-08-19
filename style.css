@@ -28,8 +28,3 @@ h1, h2, h3 {
 a:visited {
     color: LinkText;
 }
-
-hr {
-    visibility: hidden;
-    margin: 2.3rem;
-}
